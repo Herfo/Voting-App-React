@@ -20,4 +20,5 @@ npm run server
 The server is now running at [localhost:3000](localhost:3000)
 =======
 # Voting-App-React
->>>>>>> d8bae28f1ff088812cd998ac189e3cd36465068f
+
+Voting App is an application like reddit but made in a simple and quick way, using React and Semantic UI.
