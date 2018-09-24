@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# Voting-App-React
+
+Voting App is an application like reddit but made in a simple and quick way, using React and Semantic UI.
+
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
@@ -19,6 +23,3 @@ npm run server
 
 The server is now running at [localhost:3000](localhost:3000)
 =======
-# Voting-App-React
-
-Voting App is an application like reddit but made in a simple and quick way, using React and Semantic UI.
